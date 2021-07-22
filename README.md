@@ -8,5 +8,5 @@ A simple calendar application that allows a user to save events for each hour of
 
 The following animation demonstrates the application functionality:
 
-![A user clicks on slots on the color-coded calendar and edits the events.](Assets\Work-Day-Scheduler.png)
+![A user clicks on slots on the color-coded calendar and edits the events.](\Assets\Work-Day-Scheduler.png)
 
